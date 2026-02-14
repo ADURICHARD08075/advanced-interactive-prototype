@@ -1,35 +1,43 @@
 Advanced Interactive E-Commerce Prototype
-📌 Project Overview
+📌 Overview
 
-This project demonstrates an advanced interactive multi-screen e-commerce prototype built in Figma.
+This project showcases a fully interactive multi-screen e-commerce prototype built in Figma.
 
-The goal was to implement realistic micro-interactions and smooth transitions to simulate a real shopping experience.
+It focuses on implementing realistic micro-interactions, smooth transitions, and structured component systems to simulate a real-world shopping experience.
 
-🎯 Objectives
+🎯 Problem Statement
 
-Build a multi-screen user flow
+Modern e-commerce interfaces require seamless interactions and responsive feedback to improve user experience.
 
-Implement button state variants
+This project demonstrates how component variants and smart animations can create a polished and intuitive product flow.
 
-Use Smart Animate for smooth transitions
+🚀 Key Features
 
-Create a realistic loading state
+Structured component system using Variants
 
-Demonstrate an end-to-end interaction (Product → Cart → Back)
-
-⚙️ Features Implemented
-
-Button Variants (Default, Pressed, Loading)
+Button states: Default, Pressed, Loading
 
 Smart Animate transitions (300–400ms, Ease Out)
 
-Loading animation with delayed navigation
+Loading state with timed navigation
 
-Fully interactive prototype
+End-to-end user flow (Product → Cart → Payment → Confirmation)
 
-Back navigation without auto-trigger errors
+Back navigation without unintended triggers
 
-🛠 Tools Used
+🧩 Interaction Architecture
+
+User Flow:
+
+Home Feed
+→ Product Details
+→ Add to Cart
+→ Loading State
+→ Cart Tab
+→ Payment Screen
+→ Order Confirmation
+
+🛠 Tools & Technologies
 
 Figma
 
@@ -39,21 +47,15 @@ Smart Animate
 
 Prototype Interactions
 
-🔄 User Flow
-
-Home Screen → Product Details → Add to Cart → Loading State → Cart Screen → Back Navigation
-
-🎥 Demo Video
+🎥 Prototype Demo
 
 (https://drive.google.com/file/d/1--osLRLkNadt0Ap5djmUx5_fVAQTCvWz/view?usp=drive_link)
 
-🔗 Live Prototype
+🔗 Live Figma Prototype
 
 (https://www.figma.com/proto/uHZ3gcqNyVD6FLE92jWEuZ/SYNTHEX-PROJECTS?page-id=236%3A534&node-id=279-933&viewport=-403%2C575%2C0.35&t=DC0aiau8vKdrs7tm-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=279%3A933)
 
-📷 Screenshots
-
-## 📷 Screenshots
+📷 Interface Screens
 
 ### Advanced Interactive Overview
 ![Advanced Interactive](Advanced%20interactive.png)
@@ -75,3 +77,4 @@ Home Screen → Product Details → Add to Cart → Loading State → Cart Scree
 
 ### Order Confirmation Screen
 ![Order Confirmation Screen](Order%20Confirmation%20Screen.png)
+
